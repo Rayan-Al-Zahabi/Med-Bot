@@ -1,5 +1,6 @@
 # Medical-chabot
 
+![Medical-chabot](images/Med-Bot.png)
 
 # Llama2 Medical Bot
 
